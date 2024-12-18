@@ -301,7 +301,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://pump.fun" className="text-green-400/80 hover:text-green-400 transition-colors">
+                <a href="https://pump.fun/board" className="text-green-400/80 hover:text-green-400 transition-colors">
                   Buy Token
                 </a>
               </li>
